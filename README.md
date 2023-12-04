@@ -1,2 +1,0 @@
-# PracaPSI
-PracaPSI
